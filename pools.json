@@ -282,10 +282,10 @@
     ]
   },
   {
-    "poolName":"DASH.TOP",
-    "url":"http://dash.btc.top/",
+    "poolName":"THT.TOP",
+    "url":"http://thought.btc.top/",
     "searchStrings":[
-      "/DASH.TOP/"
+      "/THT.TOP/"
     ]
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "poolName":"Stratum Pool",
-    "url":"https://github.com/dashpay/dash-stratum",
+    "url":"https://github.com/thoughtpay/thought-stratum",
     "searchStrings":[
       "/stratum/"
     ]

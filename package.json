@@ -1,8 +1,8 @@
 {
-  "name": "@dashevo/insight-api",
-  "description": "A Dash blockchain REST and WebSocket API Service",
+  "name": "@thoughtnetwork/insight-api",
+  "description": "A Thought blockchain REST and WebSocket API Service",
   "version": "4.0.6",
-  "repository": "git://github.com/dashevo/insight-api.git",
+  "repository": "git://github.com/thoughtnetwork/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,19 +38,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashevo/insight-api/issues"
+    "url": "https://github.com/thoughtnetwork/insight-api/issues"
   },
-  "homepage": "https://github.com/dashevo/insight-api",
+  "homepage": "https://github.com/thoughtnetwork/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "dash api",
+    "thought api",
     "blockchain api",
     "json",
-    "bitcore-dash",
-    "dashcore"
+    "bitcore-thought",
+    "thoughtcore"
   ],
   "engines": {
     "node": ">=6"
@@ -60,11 +60,11 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.21.1",
+    "@thoughtnetwork/thoughtcore-lib": "^0.21.1",
     "async": "^2.6.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
-    "lodash": "^4.17.20",
+    "lothought": "^4.17.20",
     "lru-cache": "^5.1.1",
     "morgan": "^1.9.1",
     "request": "^2.88.0"
